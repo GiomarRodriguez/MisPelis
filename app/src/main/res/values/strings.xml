@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mis Pelis</string>
+    <string name="text_my_movies">Mis Pelis</string>
+    <string name="text_popularity">Las Tops</string>
+</resources>
